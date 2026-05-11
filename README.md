@@ -3,7 +3,7 @@
 
 A lightweight Flask API that predicts delivery times for bike couriers based on distance and package weight. This project utilizes a custom "Eco-Formula" to ensure couriers are not overworked by providing realistic delivery estimates.
 
-## 🔗 Live Deployment
+## Live Deployment
 **Base URL:** `https://delivery-api-go4n.onrender.com`  
 *Note: The root URL displays a status message. Use the `/predict` endpoint for calculations.*
 
