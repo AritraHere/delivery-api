@@ -5,7 +5,7 @@ A lightweight Flask API that predicts delivery times for bike couriers based on 
 
 ## Live Deployment
 **Base URL:** `https://delivery-api-go4n.onrender.com`  
-*Note: The root URL displays a status message. Use the `/predict` endpoint for calculations.*
+*Note: The root URL displays a status message.*
 
 ---
 
